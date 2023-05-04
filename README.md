@@ -4,38 +4,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>About Athieei Monydit</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-      header {
-        background-color: #4c2a85;
-        color: #fff;
-        padding: 20px;
-      }
-      h1 {
-        font-size: 36px;
-        margin: 0;
-        text-align: center;
-      }
-      h2 {
-        font-size: 24px;
-        margin-bottom: 10px;
-      }
-      p {
-        font-size: 18px;
-        line-height: 1.5;
-        margin-bottom: 20px;
-      }
-      section {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 20px;
-      }
-    </style>
   </head>
   <body>
     <header>

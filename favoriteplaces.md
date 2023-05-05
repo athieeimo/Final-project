@@ -5,5 +5,6 @@
     <li>WOF amusement park</li>
     <li>Trails</li>
     <li>Chicago is my favorite state I've visited so far</li>
+    <img src="my-image.jpg" alt="A beautiful image">
   </ul>
 </div>

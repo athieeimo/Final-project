@@ -12,3 +12,5 @@
     <li>The Daily</li>
   </ol>
 </div>
+<a href="https://www.youtube.com/@AngieMartinez">Click Here</a>
+<a href="https://www.youtube.com/@sdwtspodcast">Click Here</a>

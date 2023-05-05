@@ -11,4 +11,4 @@
 
 
 
-[Click this link to learn about athieeis future goals](futuregoals.md)
+[Click this link to learn about athieeis favorite places](favoriteplaces.md)

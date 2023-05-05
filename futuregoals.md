@@ -13,4 +13,4 @@
 </div>
 
 
-<a href="summerplans">Click this link to learn about athieeis summer plans</a>
+<a href="summerplans.md">Click this link to learn about athieeis summer plans</a>

@@ -8,6 +8,8 @@
     <li>NBA Youngboy</li>
     <li>Nicki Minaj</li>
     <li>Brent Faiyaz</li>
+    <li>21 savage</li>
+    <li>Adele</li>
   </ul>
   
   <h2>Genres:</h2>

@@ -28,4 +28,4 @@
     <li>Bible Study on Tuesdays</li>
   </ul>
 </div>
-<a href="favoritemusic.md">Click this link to learn about athieeis favorite hobbies</a>
+<a href="favoritemusic.md">Click this link to learn about athieeis favorite music</a>

@@ -6,6 +6,7 @@
     <li>Jcole</li>
     <li>Sza</li>
     <li>NBA Youngboy</li>
+    <li>Nicki Minaj</li>
     <li>Brent Faiyaz</li>
   </ul>
   

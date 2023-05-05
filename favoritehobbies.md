@@ -12,5 +12,7 @@
     <li>The Daily</li>
   </ol>
 </div>
-<a href="https://www.youtube.com/@AngieMartinez">Click Here</a>
-<a href="https://www.youtube.com/@sdwtspodcast">Click Here</a>
+<a href="https://www.youtube.com/@AngieMartinez">Angie Martinez </a>
+
+
+<a href="https://www.youtube.com/@sdwtspodcast">Sitting Down With The Sisters</a>

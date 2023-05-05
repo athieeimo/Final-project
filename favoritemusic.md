@@ -19,4 +19,4 @@
   </ul>
 </div>
 
-<a href="familylife.md">Click this link to learn about athieeis favorite hobbies</a>
+<a href="familylife.md">Click this link to learn about athieeis family life</a>

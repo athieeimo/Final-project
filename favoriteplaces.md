@@ -8,3 +8,8 @@
     <img src="chicago.jpeg" alt="A beautiful image">
   </ul>
 </div>
+<pre>
+  <code>
+   My cousins house
+  </code>
+</pre>

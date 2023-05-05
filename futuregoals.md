@@ -11,3 +11,6 @@
     <li>Get closer to God</li>
   </ul>
 </div>
+
+
+<a href="summerplans">Click this link to learn about athieeis summer plans</a>

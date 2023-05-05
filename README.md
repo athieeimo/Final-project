@@ -13,7 +13,7 @@
       <img src="IMG_5965.jpeg" alt="Description of the image">
       <pre>
   <code>
-    Portrait phone at kansas city plaza
+    Portrait photo at kansas city plaza
   </code>
 </pre>
       <h2>Introduction</h2>
